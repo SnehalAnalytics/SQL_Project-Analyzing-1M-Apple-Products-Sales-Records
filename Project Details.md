@@ -42,7 +42,7 @@ This project is built around five tables that capture store, product, category, 
    - `repair_status`: Status of the warranty claim (e.g., Paid Repaired, Warranty Void).
 
 ## Entity Relationship Diagram (ERD)
-
+![ERD](https://github.com/SnehalAnalytics/SQL_Project-Analyzing-1M-Apple-Products-Sales-Records/blob/main/ERD_Apple_db.png)
 
 ## Project Focus
 
