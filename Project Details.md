@@ -1,5 +1,6 @@
-## Project Overview
 ![Apple_Store](https://github.com/SnehalAnalytics/SQL_Project-Analyzing-1M-Apple-Products-Sales-Records/blob/main/Apple_Store.jpeg)
+## Project Overview
+
 This project involved designing and analyzing a relational database (apple_db) of over 1 million rows to manage Apple’s global sales, products, stores, categories, and warranty claims. A normalized schema was implemented with foreign key constraints, and the Sales table was modeled as the fact table for efficient reporting and analysis. To optimize performance, indexes and query tuning techniques were applied, reducing query execution times by over 90%. Comprehensive SQL queries were developed to solve 20+ business problems, including sales trends, warranty analytics, product performance, and store-level growth. This project demonstrates strong skills in SQL, data modeling, query optimization, and business-focused analytics to deliver actionable insights.
 
 ## Objectives
