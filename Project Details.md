@@ -2,6 +2,17 @@
 ![Apple_Store](https://github.com/SnehalAnalytics/SQL_Project-Analyzing-1M-Apple-Products-Sales-Records/blob/main/Apple_Store.jpeg)
 This project involved designing and analyzing a relational database (apple_db) of over 1 million rows to manage Apple’s global sales, products, stores, categories, and warranty claims. A normalized schema was implemented with foreign key constraints, and the Sales table was modeled as the fact table for efficient reporting and analysis. To optimize performance, indexes and query tuning techniques were applied, reducing query execution times by over 90%. Comprehensive SQL queries were developed to solve 20+ business problems, including sales trends, warranty analytics, product performance, and store-level growth. This project demonstrates strong skills in SQL, data modeling, query optimization, and business-focused analytics to deliver actionable insights.
 
+## Objectives
+
+To design and implement data-driven analyses that uncover sales performance, product trends, and warranty claim patterns across stores and countries. The goal is to leverage SQL queries and analytical techniques to generate actionable insights on store performance, customer behavior, product lifecycle, and warranty risks—enabling better decision-making, performance tracking, and strategic planning.
+- **Database Design & Data Modeling**: Created normalized schema with primary/foreign keys (Stores, Products, Category, Sales, Warranty).
+- **Complex Joins and Aggregations**: Demonstrating the ability to perform complex SQL joins and aggregate data meaningfully.
+- **Window Functions**: Using advanced window functions for running totals, growth analysis, and time-based queries.
+- **Data Segmentation**: Analyzing data across different time frames to gain insights into product performance.
+- **Correlation Analysis**: Applying SQL functions to determine relationships between variables, such as product price and warranty claims.
+- **Date & Time Functions**: Applied date extraction, interval-based segmentation, and monthly/annual grouping for time-series analysis.
+- **Business Problem Solving**: Delivered insights on store performance, product sales trends, warranty claims, and customer behavior.
+
 ## Dataset
 
 - **Size**: 1 million+ rows of sales data.
@@ -44,18 +55,7 @@ This project is built around five tables that capture store, product, category, 
 ## Entity Relationship Diagram (ERD)
 ![ERD](https://github.com/SnehalAnalytics/SQL_Project-Analyzing-1M-Apple-Products-Sales-Records/blob/main/ERD_Apple_db.png)
 
-## Project Focus
+## Learning
+Through this project, I gained practical experience in writing SQL queries of increasing complexity, from basic aggregation and filtering to advanced analytical queries involving trends, correlations, and percentages, and the ability to handle large datasets. I learned how to work with real-world sales and warranty data, interpret business metrics, and extract meaningful insights for decision-making. Additionally, I improved my understanding of database design, relationships between tables, and best practices for structuring queries efficiently and accurately.
 
-This project primarily focuses on developing and showcasing the following SQL skills:
 
--- **Database Design & Data Modeling**: Created normalized schema with primary/foreign keys (Stores, Products, Category, Sales, Warranty).
-- **Complex Joins and Aggregations**: Demonstrating the ability to perform complex SQL joins and aggregate data meaningfully.
-- **Window Functions**: Using advanced window functions for running totals, growth analysis, and time-based queries.
-- **Data Segmentation**: Analyzing data across different time frames to gain insights into product performance.
-- **Correlation Analysis**: Applying SQL functions to determine relationships between variables, such as product price and warranty claims.
-- **Date & Time Functions**: Applied date extraction, interval-based segmentation, and monthly/annual grouping for time-series analysis.
-- **Business Problem Solving**: Delivered insights on store performance, product sales trends, warranty claims, and customer behavior.
-
-## Objectives
-
-To design and implement data-driven analyses that uncover sales performance, product trends, and warranty claim patterns across stores and countries. The goal is to leverage SQL queries and analytical techniques to generate actionable insights on store performance, customer behavior, product lifecycle, and warranty risks—enabling better decision-making, performance tracking, and strategic planning.
